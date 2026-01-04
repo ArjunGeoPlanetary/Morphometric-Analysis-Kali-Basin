@@ -1,7 +1,7 @@
 # Morphometric-Analysis-Kali-Basin
 Research Publication :Quantitative evaluation of drainage basins and tectonic geomorphology using SRTM/ASTER DEMs and ArcGIS 
 
-# Quantitative Morphometric Analysis of Drainage Basins
+# Quantitative Morphometric Analysis of Drainage Basins-https://doi.org/10.1016/j.geomat.2024.100013
 
 ## Project Overview
 A comprehensive geomorphological characterization of the Kali Sub-basin (1175.45 km²) to understand hydrological behavior and erosional stages. This methodology is directly applicable to terrestrial and planetary fluvial systems.
